@@ -12,7 +12,7 @@ WebSite foi criado visando uma página web para agências.
 # Website View
 
  <p align="center">
-    <img windth="470" src="...">
+    <img windth="470" src="src/gif_agencia.gif">
   </p>
 
 
